@@ -1,0 +1,23 @@
+{
+  "name": "sued_praktiaufg",
+  "version": "1.0.0",
+  "description": "hi",
+  "main": "server_main.js",
+  "dependencies": {
+    "mongodb": "^3.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server_main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LksWllmnn/sued_PraktiAufg.git"
+  },
+  "author": "lw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LksWllmnn/sued_PraktiAufg/issues"
+  },
+  "homepage": "https://github.com/LksWllmnn/sued_PraktiAufg#readme"
+}
